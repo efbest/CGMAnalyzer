@@ -1,4 +1,4 @@
-git clone https://github.com/fbest/CGMAnalyzer.git
+git clone https://github.com/efbest/CGMAnalyzer.git
 cd CGMAnalyzer
 python -m venv cgm_env
 source cgm_env/bin/activate
